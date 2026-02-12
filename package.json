@@ -1,7 +1,7 @@
 {
   "name": "coursera",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js backend application for a Coursera-like online learning platform, built with Express.js, MongoDB, and JWT authentication.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,13 @@
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kundankr30/coursera-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kundankr30/coursera-project/issues"
+  },
+  "homepage": "https://github.com/Kundankr30/coursera-project#readme"
 }
